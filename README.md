@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @changleesoo
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Python Django
 
 
 <!---
